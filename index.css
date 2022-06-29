@@ -1,5 +1,5 @@
 #mainImg {
-  background: url(/lobster-village-322698.jpg) no-repeat center center fixed;
+  background: url(lobster-village-322698.jpg) no-repeat center center fixed;
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -48,13 +48,16 @@
 }
 #abouta {
   -webkit-text-stroke: 0.5px black;
-  color: rgb(77, 0, 76);
-  background: url(/floorChess.jpg) no-repeat center center fixed;
+  color: rgb(252, 248, 252);
+  background: url(floorChess.jpg) no-repeat center center fixed;
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+#about-title {
+  font-size: 32px;
 }
 #smile {
   -webkit-animation: spin 4s linear infinite;
@@ -66,7 +69,7 @@ p {
 }
 #portfolio {
   color: rgb(255, 0, 0);
-  background: url(/SunsetTree.jpg) no-repeat center center fixed;
+  background: url(SunsetTree.jpg) no-repeat center center fixed;
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
